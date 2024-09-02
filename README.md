@@ -2,7 +2,7 @@
 
 ### Summary
 
-This is simple Quran Applicaiton allows users to read the holy quran as well as listen to reciter.
+This is simple Quran Application allows users to read the holy Qur'an as well as listen to reciter.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ This is simple Quran Applicaiton allows users to read the holy quran as well as 
 
 ## Usage
 
-1. Scolling down/up for reading.
+1. Scrolling down/up for reading.
 2. Zoom in / Zoom in
 3. Bookmark / save in order to continue.
 4. Change the reciter.
@@ -64,4 +64,4 @@ This is simple Quran Applicaiton allows users to read the holy quran as well as 
 
 ## Contact
 
-- For any questions, please reach out to furqan01510@gmail.com
+- For any questions, please reach out to support@cloudpremises.org
