@@ -37,7 +37,7 @@ This is simple Quran Application allows users to read the holy Qur'an as well as
 | So No. | Documentation Name      | Documentation Link                                           | Repository Link                                                 |
 | ------ | ----------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- |
 | 1.     | Quran App Documentation | [Quran App Documentation](./docs/quran-app-documentation.md) | [Quran App](https://github.com/furqan01510/quran-application)   |
-| 2.     | Flutter App             | [Flutter App](.docs/flutter-quran-app.md)                    | [Flutter App]([https://github.com/furqan01510/quran-app-flutter-standalone](https://github.com/Cloud-Premises/quran-app-flutter-standalone) |
+| 2.     | Flutter App             | [Flutter App](.docs/flutter-quran-app.md)                    | [Flutter App](https://github.com/Cloud-Premises/quran-app-flutter-standalone) |
 | 3.     | React App               | [React App](.docs/react-quran-app.md)                        | [React App](https://github.com/furqan01510/react-quran-app)     |
 
 # Installation
