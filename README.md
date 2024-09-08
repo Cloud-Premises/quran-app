@@ -34,16 +34,16 @@ This is simple Quran Application allows users to read the holy Qur'an as well as
 
 ## Documentation
 
-| So No. | Documentation Name      | Documentation Link                                           | Repository Link                                                 |
-| ------ | ----------------------- | ------------------------------------------------------------ | --------------------------------------------------------------- |
-| 1.     | Quran App Documentation | [Quran App Documentation](./docs/quran-app-documentation.md) | [Quran App](https://github.com/furqan01510/quran-application)   |
+| So No. | Documentation Name      | Documentation Link                                           | Repository Link                                                               |
+| ------ | ----------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| 1.     | Quran App Documentation | [Quran App Documentation](./docs/quran-app-documentation.md) | [Quran App](https://github.com/furqan01510/quran-application)                 |
 | 2.     | Flutter App             | [Flutter App](.docs/flutter-quran-app.md)                    | [Flutter App](https://github.com/Cloud-Premises/quran-app-flutter-standalone) |
-| 3.     | React App               | [React App](.docs/react-quran-app.md)                        | [React App](https://github.com/furqan01510/react-quran-app)     |
+| 3.     | React App               | [React App](.docs/react-quran-app.md)                        | [React App](https://github.com/furqan01510/react-quran-app)                   |
 
 # Installation
 
-1. Clone the repository: `git clone https://github.com/furqan01510/quran_application.git`
-2. Navigate to the project directory: `cd quran_application`
+1. Clone the repository: `git clone https://github.com/Cloud-Premises/quran-app`
+2. Navigate to the project directory: `cd quran-app`
 3. Open in VsCode `code .`
 
 ## Security
