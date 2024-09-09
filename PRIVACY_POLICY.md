@@ -46,6 +46,7 @@ Want to learn more about what we do with any information we collect? Review the 
 12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
 13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
+# WHAT INFORMATION DO WE COLLECT?
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
 ### Personal information you disclose to us
@@ -64,6 +65,7 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
+# HOW DO WE PROCESS YOUR INFORMATION?
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 _In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
@@ -72,6 +74,7 @@ We process your personal information for a variety of reasons, depending on how 
 
 - To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
+# WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 ## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 _In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
@@ -102,6 +105,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 - If the collection is solely for journalistic, artistic, or literary purposes
 - If the information is publicly available and is specified by the regulations
 
+# WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 ## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 _In Short: We may share information in specific situations described in this section and/or with the following third parties._
@@ -112,6 +116,7 @@ We may need to share your personal information in the following situations:
 
 [Continue reading for more information on sharing personal information](#when-and-with-whom-do-we-share-your-personal-information)
 
+# HOW LONG DO WE KEEP YOUR INFORMATION?
 ## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 _In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law._
@@ -120,12 +125,14 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
+# HOW DO WE KEEP YOUR INFORMATION SAFE?
 ## 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 _In Short: We aim to protect your personal information through a system of organizational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
+# WHAT ARE YOUR PRIVACY RIGHTS?
 ## 7. WHAT ARE YOUR PRIVACY RIGHTS?
 
 _In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence._
@@ -144,17 +151,19 @@ However, please note that this will not affect the lawfulness of the processing 
 
 If you have questions or comments about your privacy rights, you may email us at [privacy@cloudpremises.org](mailto:privacy@cloudpremises.org).
 
+# CONTROLS FOR DO-NOT-TRACK FEATURES
 ## 8. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
 
+# DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 ## 9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 _In Short: If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Montana, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below._
 
-### Categories of Personal Information We Collect
+# Categories of Personal Information We Collect
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
